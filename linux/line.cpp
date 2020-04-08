@@ -25,7 +25,7 @@ Publication: Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan, Qiaozhu Mei.
 #define SIGMOID_BOUND 6
 #define NEG_SAMPLING_POWER 0.75
 
-const int hash_table_size = 30000000;
+const int hash_table_size = 3000;
 const int neg_table_size = 1e8;
 const int sigmoid_table_size = 1000;
 
