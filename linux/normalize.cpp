@@ -9,7 +9,7 @@
 typedef float real;                    // Precision of float numbers
 
 char input_file[MAX_STRING], output_file[MAX_STRING];
-int binary = 0;
+int binary = 5;
 
 void Normalize()
 {
